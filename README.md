@@ -12,6 +12,6 @@
 
 ### This is my first code line
 `print('Hello everyone')`
-
-![This is random picture](pusya.jpg)
-Please check my new [Github Account](https://github.com/AgayevaSS)
+### This is my random picture
+![](pusya.jpg)
+### Please check my new [Github Account](https://github.com/AgayevaSS)
