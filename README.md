@@ -1,6 +1,6 @@
 # This is my first readme.
 
-## Hello, my name is Suleymanov
+## Hello, my name is Aghayeva
 
 ### What I know?
 
